@@ -11,6 +11,6 @@ The four experiments use Case 9 (load multiplier 0.9), Case 14 (1.0), Case 30 (0
 
 All four cases use the same ordered parameter arrays, truncated to the first `n` entries for the case's `n` generators. The stationary unavailability used in the independent-generator outage model is
 
-\[
+$$
 q_m=\frac{\mathrm{MTTR}_m}{\mathrm{MTTF}_m+\mathrm{MTTR}_m}.
-\]
+$$
